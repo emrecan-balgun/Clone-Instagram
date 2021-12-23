@@ -1,1 +1,1 @@
-# Bootstrap Courses Homework // Instagram Clone
+# Bootstrap project within the scope of Patika.dev
